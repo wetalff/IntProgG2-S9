@@ -15,4 +15,4 @@ if elemento in array_int:
 else:
     print(f"El elemento {elemento} no se encuentra en el arreglo.")
     
-#Insertar un elemneto en el arreglo
+#Insertar un elemento en el arreglo
